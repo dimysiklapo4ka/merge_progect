@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">GoJob</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="invalid_data_message">Invalid data</string>
+    <string name="invalid_data_button">Try again</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="bt_back">Back</string>
+    <string name="bt_text_clear">Очистить</string>
+    <string name="bt_text_apply">Применить</string>
+    <string name="worker">Работник</string>
+    <string name="employer">Работодатель</string>
+    <string name="text_for_worker">text for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for worker</string>
+    <string name="text_for_employer">text for employer text for employer text for employer text for employer text for employer text for employer text for employer text for employer text for employer text for employer text for employer text for employer text for employer text for employer</string>
+    <string name="for_I_do_not_have_foreign_passport">У МЕНЯ НЕТ ЗАГРАНИЧНОГО ПАСПОРТА</string>
+    <string name="for_I_am_already_in_poland">Я УЖЕ НАХОЖУСЬ В ПОЛЬШЕ</string>
+    <string name="for_I_do_not_have_work_visa">У МЕНЯ ЕСТЬ ПАСПОРТ, НО НЕТ РАБОЧЕЙ ВИЗЫ</string>
+    <string name="for_I_have_no_job">У МЕНЯ ЕСТЬ ВИЗА, НО НЕТ РАБОТЫ</string>
+    <string name="text_for_registration_your_self">Text for registration your self. Text for registration your self. Text for registration your self. Text for registration your self. Text for registration your self. Text for registration your self.</string>
+    <string name="text_for_need_help">Text for need help. Text for need help. Text for need help. Text for need help. Text for need help. Text for need help. Text for need help.</string>
+    <string name="need_help">Нужна помощь</string>
+    <string name="text_for_visa_d_05">Text for visa D - 05. Text for visa D - 05. Text for visa D - 05. Text for visa D - 05. Text for visa D - 05. Text for visa D - 05. Text for visa D - 05.</string>
+    <string name="type_of_visa_d_05">Виза тип D - 05</string>
+    <string name="type_of_visa_d_07">Виза тип D - 07</string>
+    <string name="text_for_visa_d_07">Text for visa D - 07. Text for visa D - 07. Text for visa D - 07. Text for visa D - 07. Text for visa D - 07. Text for visa D - 07. Text for visa D - 07.</string>
+    <string name="for_nearest_agents">Ближайшие агенты</string>
+    <string name="for_list_of_documents">Перечень документов</string>
+    <string name="for_appoint_admission_date">Назначить дату записи</string>
+    <string name="for_find_a_job_with_a_free_invitation">НАЙТИ ВАКАНСИЮ С БЕСПЛАТНЫМ ПРИГЛАШЕНИЕМ</string>
+    <string name="register_your_self">Оформить самостоятельно</string>
+</resources>

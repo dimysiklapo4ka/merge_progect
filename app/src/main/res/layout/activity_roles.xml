@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.roman.epic1.RolesActivity">
+
+    <TextView
+        android:id="@+id/tv_worker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/top_header_background"
+        android:text="@string/worker"
+        android:textAlignment="center"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_text_for_worker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_for_worker"
+        android:textSize="18sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:id="@+id/bt_for_worker"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            app:srcCompat="@android:drawable/checkbox_on_background" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_employer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/bottom_header_background"
+        android:text="@string/employer"
+        android:textAlignment="center"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/tv_text_for_employer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_for_employer"
+        android:textSize="18sp" />
+
+    <ImageButton
+        android:id="@+id/bt_for_employer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        app:srcCompat="@android:drawable/btn_star_big_on" />
+
+</LinearLayout>
